@@ -23,3 +23,6 @@ JavaScript: The additions of interactivity, animation, and dynamic behavior.
 🌟 Outcomes
 
 This was an exercise of an intense, in-depth, real-world development challenge. By working through the issues of navigation menus, complex layouts, and interactive elements altogether, I have improved my problem-solving skills to a great extent and also deepened my knowledge of front-end ​‍​‌‍​‍‌​‍​‌‍​‍‌architecture.
+
+
+orignal Website:https://cynthiaugwu.com/
